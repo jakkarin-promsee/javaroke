@@ -156,4 +156,6 @@ For recommendation work, start with `recommendation/controllers/RecommendSystem.
 | No recommendations appear in the GUI | The recommendation module is not connected to the GUI. Use `:app:runRec` to explore it separately. |
 | The app cannot start without desktop or audio support | JavaFX needs a graphical environment, and JavaFX Media needs MP3 support from the platform's media backend. |
 
-This repository currently has no LICENSE file. Before redistributing the code or bundled media, establish the code license and check the rights for each media file.
+## License
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
